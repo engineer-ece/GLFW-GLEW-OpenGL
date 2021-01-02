@@ -6,6 +6,7 @@
 programming language = c++
 Graphic card is required. Support OpenGL versions 
 I am using graphic card of GeForce GT 710, 8 GB RAM,(opengl 4.5)
+In this example using 3.3 versions opengl
 ```
 
 # Topics 
