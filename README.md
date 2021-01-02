@@ -1,12 +1,12 @@
 # About Gobal Krishnan V
 ## [Click me !!!](https://engineer-ece.github.io/Home/)
-# GLFW-GLEW-OpenGL
-c++
+# Install GLFW-GLEW-OpenGL-GLM
 
+```
+programming language = c++
 Graphic card is required. Support OpenGL versions
 I am using graphic card of GeForce GT 710
-
-# Install GLFW,GLEW,Visual Code 
+```
 
 # Topics 
 
