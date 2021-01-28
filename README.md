@@ -2,10 +2,11 @@
 ## [Click me !!!](https://engineer-ece.github.io/Home/)
 ## Install GLFW-GLEW-OpenGL-GLM
 
-# Compile Code in C++/C
+### Compile Code in C++/C
 
-#### g++ -pthread -o test test.c  -lglfw -lGLU -lGL -lXrandr   -lX11 -lrt -ldl -lGLEW
-
+```
+ g++ -pthread -o test test.c  -lglfw -lGLU -lGL -lXrandr   -lX11 -lrt -ldl -lGLEW
+```
 
 ```
 programming language = c++
