@@ -1,3 +1,4 @@
+// g++ -pthread -o test test.c  -lglfw -lGLU -lGL -lXrandr   -lX11 -lrt -ldl -lGLEW
 // Introduction.cpp : This file contains the 'main' function. Program execution begins and ends there.
 //
 
