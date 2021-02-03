@@ -17,6 +17,6 @@ In this example using 3.3 versions opengl
 
 # Topics 
 
- - [ ] 1. [GLFW window](https://github.com/engineer-ece/GLFW-GLEW-OpenGL/blob/main/Graphics/1.%20Create%20Window/main.cpp)
- - [ ] 2. [Triangle](https://github.com/engineer-ece/GLFW-GLEW-OpenGL/blob/main/Graphics/2.%20Triangle/main.cpp)
- - [ ] 3. [Simple Uniform Variable](https://github.com/engineer-ece/GLFW-GLEW-OpenGL/blob/main/Graphics/3.%20Simple%20Uniform%20Variable/main.cpp)
+ - [x] 1. [GLFW window](https://github.com/engineer-ece/GLFW-GLEW-OpenGL/blob/main/Graphics/1.%20Create%20Window/main.cpp)
+ - [x] 2. [Triangle](https://github.com/engineer-ece/GLFW-GLEW-OpenGL/blob/main/Graphics/2.%20Triangle/main.cpp)
+ - [x] 3. [Simple Uniform Variable](https://github.com/engineer-ece/GLFW-GLEW-OpenGL/blob/main/Graphics/3.%20Simple%20Uniform%20Variable/main.cpp)
