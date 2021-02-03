@@ -2,9 +2,20 @@
 ## [Click me !!!](https://engineer-ece.github.io/Home/)
 ## Install GLFW-GLEW-OpenGL-GLM
 
+```
+  sudo apt-get install libglfw3
+  sudo apt-get install libglfw3-dev
+  sudo apt-get install -y glew-utils
+  sudo apt-get install libglew-dev
+  sudo apt-get install -y libglm-dev
+
+g++ -pthread -o test test.c -lglfw -lGLU -lGL -lXrandr -lXxf86vm -lXi -lXinerama -lX11 -lrt -ldl
+```
+
 ### Compile Code in C++/C
 
 ```
+
  g++ -pthread -o test test.c  -lglfw -lGLU -lGL -lXrandr   -lX11 -lrt -ldl -lGLEW
 ```
 
