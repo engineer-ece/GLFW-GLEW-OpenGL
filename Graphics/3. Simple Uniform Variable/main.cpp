@@ -1,10 +1,12 @@
+// g++ -pthread -o test test.c  -lglfw -lGLU -lGL -lXrandr   -lX11 -lrt -ldl -lGLEW
+
 //Author Gobal Krishnan V
 //Date of birth = 18-06-1995
 //Go to below link
 //https://engineer-ece.github.io/Home
 
 // Introduction.cpp : This file contains the 'main' function. Program execution begins and ends there.
-//
+
 
 #include <cmath>
 #include <stdio.h>
