@@ -1,5 +1,6 @@
 // Introduction.cpp : This file contains the 'main' function. Program execution begins and ends there.
 //
+//g++ -pthread -o test test.c  -lglfw -lGLU -lGL -lXrandr   -lX11 -lrt -ldl -lGLEW
 
 #include <stdio.h>
 #include <GL/glew.h>
