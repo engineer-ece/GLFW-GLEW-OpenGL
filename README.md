@@ -9,6 +9,7 @@
   sudo apt-get install libglew-dev
   sudo apt-get install -y libglm-dev
 
+Compiler build:
 g++ -pthread -o test test.c -lglfw -lGLU -lGL -lXrandr -lXxf86vm -lXi -lXinerama -lX11 -lrt -ldl
 ```
 
