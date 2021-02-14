@@ -8,53 +8,11 @@ Graphic card is required. Support OpenGL versions
 I am using graphic card of GeForce GT 710, 8 GB RAM,(opengl 4.5)
 In this example using 3.3 versions opengl
 ```
-
------------------------------------------------------------------
-## Install GLFW-GLEW-OpenGL-GLM for C/C++
-
-```
-  sudo apt-get install libglfw3
-  sudo apt-get install libglfw3-dev
-  sudo apt-get install -y glew-utils
-  sudo apt-get install libglew-dev
-  sudo apt-get install -y libglm-dev
-
-Compiler build:
-g++ -pthread -o test test.c -lglfw -lGLU -lGL -lXrandr -lXxf86vm -lXi -lXinerama -lX11 -lrt -ldl
-```
-
-### Compile Code in C++/C
-
-```
-
- g++ -pthread -o test test.c  -lglfw -lGLU -lGL -lXrandr   -lX11 -lrt -ldl -lGLEW
-```
-
----
-
-## Install GLFW-GLEW-OpenGL-GLM for Python
-
-  **Python 3.x**
-  * pip3 install pyopengl
-  * pip3 install glfw
-  * pip3 install glm
-  * pip3 install numpy
-  * pip3 install matplotlib
-  
-  **Python 2.x**
-  * pip install pyopengl
-  * pip install glfw
-  * pip install glm
-  * pip install numpy
-  * pip install matplotlib
-  
----
-
 # Topics 
  
  | S.No | Topic | C   | C++ | Python | Javascript |
  | ---  | ---  | --- | --- | ---    | ---        |
- | 0  | Install                  | [0](Graphics/0.install/readme.md)  | [0]() | [0]() | [0]() |
+ | 0  | Install                  | [0](Graphics/0.install/readme.md)  | [0](Graphics/0.install/readme.md) | [0]() | [0]() |
  | 1  | GLFW,GLEW window         | [1]()  | [1]() | [1]() | [1]() |
  | 2  | Triangle                 | [2]()  | [2]() | [2]() | [2]() |
  | 3  | Simple Uniform Variable  | [3]()  | [3]() | [3]() | [3]() | 
