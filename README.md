@@ -51,28 +51,31 @@ g++ -pthread -o test test.c -lglfw -lGLU -lGL -lXrandr -lXxf86vm -lXi -lXinerama
 ---
 
 # Topics 
- - [x] 0. [Install](https://github.com/engineer-ece/GLFW-GLEW-OpenGL/tree/main/Graphics/0.install)
- - [x] 1. [GLFW,GLEW window](https://github.com/engineer-ece/GLFW-GLEW-OpenGL/blob/main/Graphics/1.%20Create%20Window/main.cpp)
- - [x] 2. [Triangle](https://github.com/engineer-ece/GLFW-GLEW-OpenGL/blob/main/Graphics/2.%20Triangle/main.cpp)
- - [x] 3. [Simple Uniform Variable](https://github.com/engineer-ece/GLFW-GLEW-OpenGL/blob/main/Graphics/3.%20Simple%20Uniform%20Variable/main.cpp)
- - [ ] 4. [GLM]()
- - [ ] 5. [Translation]()
- - [ ] 6. [Rotation]()
- - [ ] 7. [Scaling]()
- - [ ] 8. [Interpolation]()
- - [ ] 9. [Indexed Draws]()
- - [ ] 10. [Projection]()
- - [ ] 11. [Good Form]()
- - [ ] 12. [Camera Input]()
- - [ ] 13. [Camera Movement]()
- - [ ] 14. [Texture Mapping]()
- - [ ] 15. [Ambient Lighting]()
- - [ ] 16. [Diffuse Lighting]()
- - [ ] 17. [Specular Lighting]()
- - [ ] 18. [Point Lights]()
- - [ ] 19. [Spot Lights]()
- - [ ] 20. [Model Importing]()
- - [ ] 21. [Directional Shadow Maps]()
- - [ ] 22. [Omnidirectional Shadow Map => Cubemap]()
- - [ ] 23. [Omnidirectional Shadow Map => Shadow Map]()
- - [ ] 24. [The Skybox]()
+ 
+ | S.No | C   | C++ | Python | Javascript |
+ | ---  | --- | --- | ---    | ---        |
+ | 0  | [Install]()                  | [Install]()                     |   |   |
+ | 1  | [GLFW,GLEW window]()         | [GLFW,GLEW window]()            |
+ | 2  | [Triangle]()                 | [Triangle]()                    |
+ | 3  | [Simple Uniform Variable]()  | [Simple Uniform Variable]()     |
+ | 4  | [GLM]()                      | [GLM]()                         |
+ | 5  | [Translation]()              | [Translation]() 
+ | 6  | [Rotation]()                 | [Rotation]()
+ | 7  | [Scaling]()                  | [Scaling]()
+ | 8  | [Interpolation]()            | [Interpolation]()
+ | 9  | [Indexed Draws]()            | [Indexed Draws]()
+ |10  | [Projection]()               | [Projection]()
+ |11  | [Good Form]()                | [Good Form]()
+ |12  | [Camera Input]()             | [Camera Input]()
+ |13  | [Camera Movement]()          | [Camera Movement]()
+ |14  | [Texture Mapping]()          | [Texture Mapping]()
+ |15  | [Ambient Lighting]()         | [Ambient Lighting]()
+ |16  | [Diffuse Lighting]()         | [Diffuse Lighting]()
+ |17  | [Specular Lighting]()        | [Specular Lighting]()
+ |18  | [Point Lights]()             | [Point Lights]()
+ |19  | [Spot Lights]()              | [Spot Lights]()
+ |20  | [Model Importing]()          | [Model Importing]()
+ |21  | [Directional Shadow Maps]()  | [Directional Shadow Maps]()
+ |22  | [OD Cubemap]()               | [OD Cubemap]()
+ |23  | [OD Shadow Map]              | [OD Shadow Map]()
+ |24  | [The Skybox]()               | [The Skybox]()
