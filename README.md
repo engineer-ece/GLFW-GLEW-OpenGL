@@ -1,6 +1,16 @@
 # About Gobal Krishnan V
 ## [Click me !!!](https://engineer-ece.github.io/Home/)
-## Install GLFW-GLEW-OpenGL-GLM
+
+
+```
+programming language = c++
+Graphic card is required. Support OpenGL versions 
+I am using graphic card of GeForce GT 710, 8 GB RAM,(opengl 4.5)
+In this example using 3.3 versions opengl
+```
+
+-----------------------------------------------------------------
+## Install GLFW-GLEW-OpenGL-GLM for C/C++
 
 ```
   sudo apt-get install libglfw3
@@ -20,12 +30,21 @@ g++ -pthread -o test test.c -lglfw -lGLU -lGL -lXrandr -lXxf86vm -lXi -lXinerama
  g++ -pthread -o test test.c  -lglfw -lGLU -lGL -lXrandr   -lX11 -lrt -ldl -lGLEW
 ```
 
-```
-programming language = c++
-Graphic card is required. Support OpenGL versions 
-I am using graphic card of GeForce GT 710, 8 GB RAM,(opengl 4.5)
-In this example using 3.3 versions opengl
-```
+---
+
+## Install GLFW-GLEW-OpenGL-GLM for Python
+
+  **Python 3.x**
+  pip3 install pyopengl
+  pip3 install glfw
+  pip3 install glm
+  
+  **Python 2.x**
+  pip install pyopengl
+  pip install glfw
+  pip install glm
+  
+---
 
 # Topics 
  - [x] 0. [Install](https://github.com/engineer-ece/GLFW-GLEW-OpenGL/tree/main/Graphics/0.install)
