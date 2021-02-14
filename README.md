@@ -54,7 +54,7 @@ g++ -pthread -o test test.c -lglfw -lGLU -lGL -lXrandr -lXxf86vm -lXi -lXinerama
  
  | S.No | Topic | C   | C++ | Python | Javascript |
  | ---  | ---  | --- | --- | ---    | ---        |
- | 0  | Install                  | [0]()  | [0]() | [0]() | [0]() |
+ | 0  | Install                  | [0](Graphics/0.install/readme.md)  | [0]() | [0]() | [0]() |
  | 1  | GLFW,GLEW window         | [1]()  | [1]() | [1]() | [1]() |
  | 2  | Triangle                 | [2]()  | [2]() | [2]() | [2]() |
  | 3  | Simple Uniform Variable  | [3]()  | [3]() | [3]() | [3]() | 
