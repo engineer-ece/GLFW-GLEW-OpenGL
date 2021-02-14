@@ -68,7 +68,7 @@ g++ -pthread -o test test.c -lglfw -lGLU -lGL -lXrandr -lXxf86vm -lXi -lXinerama
  |11  | Good Form                | [11]() | [11]()| [11]()| [11]()|
  |12  | Camera Input             | [12]() | [12]()| [12]()| [12]()|
  |13  | Camera Movement          | [13]() | [13]()| [13]()| [13]()| 
- |14  | Texture Mapping          | [14]() | [14]()| [14() | [14]()|
+ |14  | Texture Mapping          | [14]() | [14]()| [14]()| [14]()|
  |15  | Ambient Lighting         | [15]() | [15]()| [15]()| [15]()|
  |16  | Diffuse Lighting         | [16]() | [16]()| [16]()| [16]()|
  |17  | Specular Lighting        | [17]() | [17]()| [17]()| [17]()|
